@@ -1,0 +1,34 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0; 
+}
+
+.container {
+    text-align: center;
+}
+
+#playPauseBtn {
+    width: 300px;
+    height: 300px; 
+    cursor: pointer;
+    box-shadow: 0px 0px 10px rgba(0, 0, 255, 0.8); 
+    transition: transform 0.3s ease-in-out, box-shadow 0.1s ease-in-out; 
+    background-color: transparent; 
+    border: none; 
+    outline: none;
+    display: inline-block; 
+    padding: 0; 
+}
+
+#playPauseBtn:hover {
+    transform: scale(1.08);
+    box-shadow: 0px 0px 20px rgba(0, 0, 255, 0.8); 
+}
+
+#playPauseBtn.clicked {
+    background-color: yellow; 
+    box-shadow: 0px 0px 10px rgba(255, 255, 0, 0.8);
+}

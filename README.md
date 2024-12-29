@@ -13,10 +13,8 @@
 
 ### 구현 화면
 
-![스크린샷 2024-12-29 185512](https://github.com/user-attachments/assets/7adf7152-10de-47b4-80a2-3fd40b963ffe)
-
-![스크린샷 2024-12-29 185525](https://github.com/user-attachments/assets/a0911210-9f29-4025-8880-8a7414ed9f6e)
-
-![스크린샷 2024-12-29 185545](https://github.com/user-attachments/assets/34737788-58e5-4efc-ab67-b9a3758c01a6)
+<br>
+이미지 클릭 시 유튜브로 이동
+[![Video Label](http://img.youtube.com/vi/QJgEXqJ6O2g/0.jpg)](https://youtu.be/QJgEXqJ6O2g?t=0s)
 
 

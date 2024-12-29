@@ -1,4 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFAC49&height=150&section=header&text=&fontSize=50%"/>
+
 # DynamicWebLab
 다양한 웹 기능 실험 구현
 

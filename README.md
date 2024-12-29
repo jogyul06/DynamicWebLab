@@ -10,8 +10,9 @@
 </div>
 
 ### 구현 화면
-
+<br>
 이미지 클릭 시 유튜브로 이동
+<br>
 [![Video Label](http://img.youtube.com/vi/QJgEXqJ6O2g/0.jpg)](https://youtu.be/QJgEXqJ6O2g?t=0s)
 
 

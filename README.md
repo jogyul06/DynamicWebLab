@@ -11,6 +11,7 @@
 
 ### 구현 화면
 
+[![Video Label](http://img.youtube.com/vi/QJgEXqJ6O2g/0.jpg)](https://youtu.be/QJgEXqJ6O2g?t=0s)
 https://youtu.be/QJgEXqJ6O2g
 
 
